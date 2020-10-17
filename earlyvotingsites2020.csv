@@ -1,0 +1,26 @@
+name,address,city,dates_open,cubside_dropoff,hours,emergency_voting,lat,lon,county
+Pima County Recorder's Main Office,240 N. Stove Ave.,Tucson,10/07/2020-10/30/2020,10/19-11/2/2020,M-F 8 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.225538,-110.97089,Pima
+Pima County Recorder's East Side Annex,6920 E. Broadway Blvd.,Tucson,10/07/2020-10/30/2020,10/19-11/2/2020,M-F 8 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.220354,-110.84434,Pima
+Pima County Recorder's Ballot Processing Center,6550 S. Country Club Rd.,Tucson,10/07/2020-10/30/2020,10/26-11/2/2020,M-F 8 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.132919,-110.92729,Pima
+Oro Valley Librarty,1305 W. Naranja Dr.,Oro Valley,10/26/2020-10/30/2020,10/19-11/2/2020,"M,W, F 9 a.m. -  5 p.m. T,Tr 10 a.m. - 7 p.m.",10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.409129,-110.99435,Pima
+"Pima County Natural Resources, Parks, and Recreation Building",3500 W. River Rd.,Tucson,10/26/2020-10/30/2020,10/19-11/2/2020,M-F 9 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.315956,-111.03852,Pima
+Woods Library,3455 N. 1st Ave.,Tucson,10/26/2020-10/30/2020,10/19-11/2/2020,"M,W, F 9 a.m. - 5 p.m. T,Tr 10 a.m. - 7 p.m.",10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.270038,-110.96153,Pima
+Wheeler Taft Library,7800 N. Schisler Dr.,Tucson,10/26/2020-10/30/2020,10/26/2020-11/2/2020,"M,W, F 9 a.m. - 5 p.m. T,Tr 10 a.m. - 7 p.m.",10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.349083,-111.09512,Pima
+Miller Golf Links Library,9640 E. Golf Links Rd.,Tucson,10/26/2020-10/30/2021,10/26/2020-11/2/2020,"M,W, F 9 a.m. - 5 p.m. T,Tr 10 a.m. - 7 p.m.",No Emergency Voting,32.191019,-110.78625,Pima
+Kirk-Bear Canyon Library,8959 E. Tanque Verde Rd.,Tucson,10/26/2020-10/30/2022,10/19/2020-11/2/2020,"M,W, F 9 a.m. - 5 p.m. T,Tr 10 a.m. - 7 p.m.",10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.259577,-110.80141,Pima
+Mission Library,3770 S. Mission Rd.,Tucson,10/26/2020-10/30/2023,10/19/2020-11/2/2020,"M,W, F 9 a.m. - 5 p.m. T,Tr 10 a.m. - 7 p.m.",10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,32.178629,-111.00436,Pima
+The Good Shepherd UCC,17750 S. La Canada,Sahuarita,10/26/2020-10/30/2024,10/19/2020-11/2/2021,M-F 9 a.m. - 5 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,31.928214,-110.99562,Pima
+TOKA Community Building,51 Baboquivari Circle,Sells,10/26/2020-10/30/2025,No,M-F 9 a.m. - 4 p.m.,10/31/2020 9 a.m. - 3 p.m. 11/02/2020 8 a.m. - 5 p.m.,31.918234,-111.86578,Pima
+Salazar-Ajo Library (Ajo Residents Only),15 Plaza St.,Ajo,10/26/2020-10/30/2026,No,M-F 10 a.m. - 4 p.m.,No Emergency Voting,32.373374,-112.86138,Pima
+University of Arizona Student Union,"Santa Rita Room, 3rd Floor",Tucson,10/26/2020-10/30/2027,No,M-F 9 a.m. - 5 p.m.,No Emergency Voting,32.232877,-110.95216,Pima
+Cochise County Recorder's Office,1415 W. Melody Ln.,Bisbee,10/7/2020-10/30/2020,,M-F 8 a.m. - 5 p.m. Sat 10/17 and 10/24 9 a.m. - 3 p.m.,,31.391597,-109.930006,Cochise
+County Service Center,126 W. 5th St.,Benson,10/7/2020-10/30/2021,,Secure Drop Box,,31.968171,-110.298206,Cochise
+County Service Center,1012 N. G Ave.,Douglas,10/7/2020-10/30/2022,,Secure Drop Box,,31.3456,-109.554713,Cochise
+County Service Center,4001 E. Foothills Dr,Sierra Vista,10/7/2020-10/30/2023,,Secure Drop Box,,31.546284,-110.256692,Cochise
+City of Sierra Vista,1011 N. Coronado Dr.,Sierra Vista,10/7/2020-10/30/2024,,Secure Drop Box,,31.565229,-110.273902,Cochise
+County Service Center,450 S. Haskell Ave.,Willcox,10/7/2020-10/30/2025,,Secure Drop Box,,32.248976,-109.835319,Cochise
+Santa Cruz County Recorder's Office,2150 N.Congress Dr.,Nogales,10/7/2020-10/30/2020,,M-F 8 a.m. - 5 p.m. Sat. 10/10 9 a.m. - 12 p.m.,,31.372536,-110.939553,Santa Cruz
+Tubac Community Center,50 Bridge Rd.,Tubac,10/17/20,,9 a.m. - 12 p.m.,,31.617727,-111.04361,Santa Cruz
+Rio Rico Public Library,275 Rio Rico Dr.,Rio Rico,10/17/20,,2 p.m. - 5 p.m.,,31.466304,-110.991219,Santa Cruz
+Patagonia Town Hall,310 McKeown Ave.,Patagonia,10/24/20,,9 a.m. - 12 p.m.,,31.54081,-110.75329,Santa Cruz
+Sonoita Public Library County Complex Building,3147 Highway 83,Sonoita,10/24/20,,2 p.m. - 5 p.m.,,31.677118,-110.655407,Santa Cruz
